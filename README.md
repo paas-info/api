@@ -1,2 +1,2 @@
 # api
-API for PaaS
+API for app
