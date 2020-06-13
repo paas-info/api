@@ -18,22 +18,6 @@ buttons
 https://getbootstrap.com/docs/4.0/components/buttons/
 
 
-## Run Service on linux
-
-Note if you're new to Unix: 
-/var/www/myapp/app.js should have 
-#!/usr/bin/env node
- 
-on the very first line.
-
-Copy your service file into the /etc/systemd/system.
-
-Start it with systemctl start myapp.
-
-Enable it to run on boot with systemctl enable myapp.
-
-See logs with journalctl -u myapp
-
 ## screen
 The screen will detach and survive you logging off. Then you can get it back back doing screen -r. Hit up the screen manual for more details. You can name the screens and whatnot if you like
 
