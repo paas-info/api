@@ -54,8 +54,12 @@ $start = (float) microtime(false);
         "https://paas.info",
 
         "http://localhost:8000",
+        "https://localhost:8000",
         "http://localhost:8080",
+        "https://localhost:8080",
         "http://localhost:80",
+        "http://localhost",
+        "https://localhost",
     ];
 
     if (in_array($http_origin, $allowed_origins))
