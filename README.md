@@ -14,6 +14,11 @@ https://github.com/paas-info/www
 
 [Co to jest PaaS? Platforma jako usługa | Microsoft Azure](https://azure.microsoft.com/pl-pl/overview/what-is-paas/)
 
+## Why PaaS?
+
+Increasing developer productivity means delivering on business goals faster while making life easier for your team.
+
+
 ## Typowe scenariusze dla rozwiązania PaaS
 
 Typowe zastosowania rozwiązania PaaS w organizacjach to:
